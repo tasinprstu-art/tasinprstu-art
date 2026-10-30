@@ -1,6 +1,6 @@
 # Hello! I'm K. M. AL TASIN KABIR 👋
 
-
+<a href="https://linkedin.com/in/www.linkedin.com/in/k-m-al-tasin-kabir"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="mailto:tasinprstu@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 
 I am a student with a strong passion for Cyber Security. I am currently focusing on building my foundational knowledge in programming and network security, and I am eager to learn and grow in this field.
